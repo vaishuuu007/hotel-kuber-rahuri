@@ -1,3 +1,4 @@
+alert('welcome to our site')
 
 function addtocart() {
     alert("Added to Cart successfully");
